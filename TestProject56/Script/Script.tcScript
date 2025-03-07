@@ -5,5 +5,6 @@
 		<child name="Unit2" key="{AD981117-64CA-43F8-A64C-39245D0E76B2}" path="Unit2.js" />
 		<child name="Unit3" key="{A03DC430-0EF3-4F57-AE2E-85412608682F}" path="Unit3.js" />
 		<child name="Unit4" key="{0019DD7B-AA11-4ED0-9707-86ADEAA8F1C5}" path="Unit4.js" />
+		<child name="Unit5" key="{5B8BC198-B274-48A3-8293-72DC36DEE36A}" path="Unit5.js" />
 	</children>
 </Root>
