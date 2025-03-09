@@ -1,3 +1,4 @@
-﻿func() {
-
-Log.Message("1
+﻿function () 
+{
+Log.message("123")
+}
