@@ -1,3 +1,5 @@
 ﻿func() {
 
-Log.Message("1
+Log.Message("123")
+
+ }
